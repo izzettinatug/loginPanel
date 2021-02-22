@@ -1,0 +1,16 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\bin\Debug\netcoreapp3.1\Login Paneli Örneği.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login_Paneli_Örneği.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login_Paneli_Örneği.Properties.Resources.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Login Paneli Örneği\Login Paneli Örneği\obj\Debug\netcoreapp3.1\Login Paneli Örneği.genruntimeconfig.cache
